@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shaikat
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a Full Stack Web Developer
+![I am GitHub Readme Generator's creator](https://kumarshaikatbala.github.io/portfolio/assets/img/profile-img.jpg)
 
 I am a full stack software developer mainly working on backend with PHP Laravel Framework, JavaScript, jQuery, Ajax,axios, Node.js, Vue, webpack. I have Working experience in third party web API like payment gateway, Bus ticket booking, bulk SMS etc. I also have some experience with Vue : vuex,vue filter Ajax library axios etc. I have also working experience on Bootstrap latest version. I am also skilled in agile methodology. I use git as version control system. tool.
 
