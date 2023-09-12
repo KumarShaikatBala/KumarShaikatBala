@@ -16,7 +16,7 @@ Skills:  Laravel / VUE JS/ JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KumarShaikatBala)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShaikatBala)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShaikatBala)](https://github.com/KumarShaikatBala/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarShaikatBala&show_icons=true&count_private=true)  
 
