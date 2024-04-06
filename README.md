@@ -4,7 +4,7 @@
 
 I am a full stack software developer mainly working on backend with PHP Laravel Framework, JavaScript, jQuery, Ajax,axios, Node.js, Vue, webpack. I have Working experience in third party web API like payment gateway, Bus ticket booking, bulk SMS etc. I also have some experience with Vue : vuex,vue filter Ajax library axios etc. I have also working experience on Bootstrap latest version. I am also skilled in agile methodology. I use git as version control system. tool.
 
-Skills:  Laravel / VUE JS/ JS / HTML / CSS
+Skills:  Laravel / REACT/ Next / VUE JS/ JS / HTML / CSS
 
 - 🔭 I’m currently working on Dream71 Bangladesh Limited 
 - 🌱 I’m currently learning React js 
