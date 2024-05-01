@@ -7,7 +7,7 @@ I am a full stack software developer mainly working on backend with PHP Laravel 
 Skills:  Laravel / REACT/ Next / VUE JS/ JS / HTML / CSS
 
 - 🔭 I’m currently working on Dream71 Bangladesh Limited 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning Node/Express and Python/Fast Api 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KumarShaikatBala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaikat-tomal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shaikat.Tomal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kumarshaikatbala.github.io/portfolio/)  
